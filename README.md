@@ -11,6 +11,7 @@ To help the company prepare for the possible retirements, I created a list of em
 The file *retirement_titles.csv* shows all employees with eligible birthdates. 
 * When filtered for current employees only, the number of current employees who might retire is over 70,000.
 * Reviewing the “from_date”, which indicates the amount of time in these titles, the vast majority of the eligible retirees have decades of experience in their roles.
+
 ![PossibleRetirements](https://github.com/DeliaDavila/Pewlett-Hackard-Analysis/blob/main/Images/PossibleRetirements.png)
 
 ### Overview of titles
@@ -42,7 +43,9 @@ The question to answer here is: Are there enough qualified, retirement-ready emp
 The answer to this question is, unfortunately, it depends. As seen in the "retiring titles" table, some areas have large numbers of experienced employees who can pass down knowledge. However, the number of retiring managers is only 2. This leaves open the possibility for loss of knowledge and I recommend that additional steps are taken.
 
 ### Recommendations
-The small number of managers who might retire might not be a major issue, if their expertise can be duplicated from outside sources or if there is significant overlap in their specialized knowledge. I recommend further analysis of the manager's history to investigate what departments might not have duplicate knowledge. To do this, I would create a report showing the previous titles and departments of all managers, retiring and remaining, to get a sense of how much institutional knowledge is part of the manager role. This will also help determine if there is overlap with the current managers. To prepare for a potential management training program, I suggest some additional analysis of current employees to investigate which departments or titles might lack enough employees to recruit into senior or management roles. I recommend initiating the mentorship program between retiring and senior employees, but then adding additional stages where the senior employees also act as mentors to more junior employees. This solves the issue of retirements in the future as well.
+The small number of managers who might retire might not be a major issue, if their expertise can be duplicated from outside sources or if there is significant overlap in their specialized knowledge. I recommend further analysis of the manager's history to investigate what departments might not have duplicate knowledge. To do this, I would create a report showing the previous titles and departments of all managers, retiring and remaining, to get a sense of how much institutional knowledge is part of the manager role. This will also help determine if there is overlap with the current managers. 
+
+To prepare for a potential management training program, I suggest some additional analysis of current employees to investigate which departments or titles might lack enough employees to recruit into senior or management roles. I recommend initiating the mentorship program between retiring and senior employees, but then adding additional stages where the senior employees also act as mentors to more junior employees. This solves the issue of retirements in the future as well.
 
 
 
