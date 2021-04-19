@@ -16,7 +16,7 @@ The file *retirement_titles.csv* shows all employees with eligible birthdates.
 
 ### Overview of titles
 The file *retiring_titles.csv* shows the number of possible retirements are shown by job title.
-* The distribution of retirements is un even. Some titles will be more affected by retirements.
+* The distribution of retirements is uneven. Some titles will be more affected by retirements.
 * Both titles with more than 20,000 possible retirements are Senior level, indicating significant experience and knowledge.
 
 ![RetiringTitles](https://github.com/DeliaDavila/Pewlett-Hackard-Analysis/blob/main/Images/RetiringTitles.png)
@@ -40,7 +40,11 @@ From this, we see that the potential impact will be very large. Given the senior
 ### Change management
 The question to answer here is: Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-The answer to this question is, unfortunately, it depends. As seen in the "retiring titles" table, some areas have large numbers of experienced employees who can pass down knowledge. However, the number of retiring managers is only 2. This leaves open the possibility for loss of knowledge and I recommend that additional steps are taken.
+The answer to this question is, unfortunately, it depends. As seen in the "retiring titles" table, some areas have large numbers of experienced employees who can pass down knowledge.
+
+![RetiringTitles](https://github.com/DeliaDavila/Pewlett-Hackard-Analysis/blob/main/Images/RetiringTitles.png)
+
+However, the number of retiring managers is only 2. This leaves open the possibility for loss of knowledge and I recommend that additional steps are taken.
 
 ### Recommendations
 The small number of managers who might retire might not be a major issue, if their expertise can be duplicated from outside sources or if there is significant overlap in their specialized knowledge. I recommend further analysis of the manager's history to investigate what departments might not have duplicate knowledge. To do this, I would create a report showing the previous titles and departments of all managers, retiring and remaining, to get a sense of how much institutional knowledge is part of the manager role. This will also help determine if there is overlap with the current managers. 
